@@ -1,3 +1,6 @@
+Core code of "Inverse Farthest Point Sampling (IFPS): A Universal and
+Hierarchical Shell Representation for Discrete Data"
+The video link is as follows: https://youtu.be/uHoOZuhxPY0
 
 # Setup
 
