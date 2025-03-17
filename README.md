@@ -1,10 +1,15 @@
 # Inverse Farthest Point Sampling (IFPS): A Universal and Hierarchical Shell Representation for Discrete Data
 
-This repository is the official implementation of IFPS:
+This repository is the official implementation of our ICMR 2025 paper:
 
-Core code has been released.The video link is as follows: https://youtu.be/uHoOZuhxPY0
+__Inverse Farthest Point Sampling (IFPS): A Universal and Hierarchical Shell Representation for Discrete Data__
+
+Links:[[Video(bilibili)]](https://youtu.be/uHoOZuhxPY0)
 
 # Pipeline
+
+**Core idea in one sentence**.Using the first N sampled points, the IFPS shell is constructed to encapsulate all the original discrete points, employing hierarchical management.
+
 ![ifps](IFPS/assets/pipeline.jpg)
 
 # Setup
