@@ -12,6 +12,15 @@ Links: [[Video(Youtube)]](https://youtu.be/uHoOZuhxPY0)
 
 ![ifps](IFPS/assets/pipeline.jpg)
 
+
+**Global Shell Construction**
+![ifps](IFPS/assets/seq_cut.jpg)
+
+
+**Shell under different norms**
+![ifps](IFPS/assets/multiway_cut.jpg)
+
+
 # Setup
 
 Python 3 dependencies:
@@ -27,6 +36,8 @@ conda activate Ifps
 conda install pytorch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 pytorch-cuda=11.8 -c pytorch -c nvidia
 pip install .
 ```
+
+
 
 
 # DataSet
