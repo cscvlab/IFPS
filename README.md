@@ -15,22 +15,23 @@ Links: [[Video(Youtube)]](https://youtu.be/uHoOZuhxPY0)
 ![ifps](IFPS/assets/pipeline.jpg)
 
 
-### IFPS Shell Construction Results
+### Implicit Sphere Tree and IFPS Shell Results
+
 ![ifps](IFPS/assets/seq_cut.jpg)
 
 
-### IFPS Shell under Various Norms
+### Multi-way Tree Structure and IFPS Shells under Various Norms
+
 ![ifps](IFPS/assets/multiway_cut.jpg)
 
 
-# Setup
+## Setup
 
 Python 3 dependencies:
 
 * numba 0.58.1
 * trimesh 4.1.4
 * h5py 3.10.0
-
 
 ```
 conda create -n Ifps python=3.8
@@ -39,17 +40,14 @@ conda install pytorch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 pytorch-cuda=
 pip install .
 ```
 
-
-
-
-# DataSet
+## DataSet
 You can use the example dataset in IFPS/dataset/thingi32_normalization/ or you can put your custom datasets in IFPS/dataset/ directory.
 
-# Configurations
+## Configurations
 All configurable settings are accessible within the IFPS/utils/options.py
 
-
-# Run
+## Run
 ```
 python example.py
 ```
+
