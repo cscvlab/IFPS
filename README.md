@@ -8,7 +8,7 @@ Links: [[Video(Youtube)]](https://youtu.be/uHoOZuhxPY0)
 
 ## Method
 
-**Core idea in one sentence**. Using the first N sampled points, the IFPS shell can be constructed to encapsulate all original discrete points, employing hierarchical management.
+**Core idea in one sentence**. Using only the first N sampled points, the IFPS shell is constructed to encapsulate all the original discrete points while employing hierarchical management.
 
 ### Pipeline
 
