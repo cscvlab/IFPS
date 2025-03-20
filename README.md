@@ -15,7 +15,7 @@ Links: [[Video(Youtube)]](https://youtu.be/uHoOZuhxPY0)
 ![ifps](IFPS/assets/pipeline.jpg)
 
 
-### Implicit Sphere Tree and IFPS Shell Results
+### Implicit Sphere Tree and IFPS Shells with Growing Point Numbers
 
 ![ifps](IFPS/assets/seq_cut.jpg)
 
