@@ -12,23 +12,23 @@ __Authors:__ Nayu Ding, Yujie Lu, Yao Huang, Long Wan, Yan Zhao, Zhijun Fang, Sh
 
 **Core idea in one sentence**. Using only the first $N$ FPS-sampled points, the IFPS shell can be constructed to encapsulate all the original discrete points while employing hierarchical management.
 
-### Pipeline
+### Sketch
 
 <p align="center">
- <img src="IFPS/assets/pipeline.jpg" width = "800" alt="ifps" align=center />
+ <img src="IFPS/assets/pipeline.jpg" width = "600" alt="ifps" align=center />
 </p>
-
-![ifps](IFPS/assets/pipeline.jpg)
-
 
 ### Implicit Sphere Tree and IFPS Shells with Growing Point Numbers
 
-![ifps](IFPS/assets/seq_cut.jpg)
-
+<p align="center">
+ <img src="IFPS/assets/seq_cut.jpg" width = "800" alt="ifps" align=center />
+</p>
 
 ### Multi-way Tree Structure and IFPS Shells under Various Norms
 
-![ifps](IFPS/assets/multiway_cut.jpg)
+<p align="center">
+ <img src="IFPS/assets/multiway_cut.jpg" width = "800" alt="ifps" align=center />
+</p>
 
 
 ## Setup
@@ -55,5 +55,16 @@ All configurable settings are accessible within the IFPS/utils/options.py
 ## Run
 ```
 python example.py
+```
+
+## Citation
+
+```bibtex
+@inproceedings{Ding2025IFPS,
+  title={Inverse Farthest Point Sampling (IFPS): A Universal and Hierarchical Shell Representation for Discrete Data},
+  author={Ding, Nayu and Lu, Yujie and Huang, Yao and Wan, Long and Zhao, Yan and Fang, Zhijun and Cai, Shen and Gao, Lin},
+  booktitle={ACM International Conference on Multimedia Retrieval (ICMR)}, 
+  year={2025},
+}
 ```
 
