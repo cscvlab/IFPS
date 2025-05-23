@@ -10,7 +10,8 @@ __Authors:__ Nayu Ding, Yujie Lu, Yao Huang, Long Wan, Yan Zhao, Zhijun Fang, Sh
 
 ## Method
 
-**Core idea in one sentence**. Using only the first $N$ FPS-sampled points, the IFPS shell can be constructed to encapsulate all the original discrete points while employing hierarchical management.
+### Core idea in one sentence
+Using only the first $N$ FPS-sampled points, the IFPS shell can be constructed to encapsulate all the original discrete points while employing hierarchical management.
 
 ### Sketch
 
@@ -30,6 +31,10 @@ __Authors:__ Nayu Ding, Yujie Lu, Yao Huang, Long Wan, Yan Zhao, Zhijun Fang, Sh
  <img src="IFPS/assets/multiway_cut.jpg" width = "800" alt="ifps" align=center />
 </p>
 
+### Advantages
+* **Universal representation**. Centers of bounding volumes are the input points themselves. Radii of bounding volumes are derived from FPS. 
+* **Hierarchical representation**. . Both of implicit tree and explicit q-way tree can be constructed, without heuristic spatial partitioning.
+* **Arbitrary Dimension**. Beyond 2D/3D, IFPS can be seamlessly extended to discrete data in any dimension, with spheres naturally generalizing to hyperspheres.
 
 ## Setup
 
