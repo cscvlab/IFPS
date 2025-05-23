@@ -1,4 +1,4 @@
-# Inverse Farthest Point Sampling (IFPS) Shell
+![image](https://github.com/user-attachments/assets/192a8eec-3217-4fb3-aed6-6d6088c873e8)# Inverse Farthest Point Sampling (IFPS) Shell
 
 This repository is the official implementation of our **ICMR 2025** paper:
 
@@ -31,10 +31,12 @@ Using only the first $N$ FPS-sampled points, the IFPS shell can be constructed t
  <img src="IFPS/assets/multiway_cut.jpg" width = "800" alt="ifps" align=center />
 </p>
 
+
 ### Advantages
-1. **Universal representation**. Centers of bounding volumes are the input points themselves. Radii of bounding volumes are derived from FPS. 
-2. **Hierarchical representation**. Both of implicit tree and explicit q-way tree can be constructed, without heuristic spatial partitioning.
-3. **Arbitrary Dimension**. Beyond 2D/3D, IFPS can be seamlessly extended to discrete data in any dimension, with spheres naturally generalizing to hyperspheres.
+
+1. **Intrinsic Representation**: Bounding volume centers are FPS-sampled points, with radii computed from these samples.
+2. **Hierarchical Representation**: IFPS supports both implicit and explicit *q*-way trees without heuristic partitioning.
+3. **Universal Representation**: IPFS extends naturally to discrete data in any dimension, generalizing spheres to hyperspheres.
 
 ## Setup
 
