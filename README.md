@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/192a8eec-3217-4fb3-aed6-6d6088c873e8)# Inverse Farthest Point Sampling (IFPS) Shell
+# Inverse Farthest Point Sampling (IFPS) Shell
 
 This repository is the official implementation of our **ICMR 2025** paper:
 
