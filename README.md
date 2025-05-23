@@ -34,7 +34,7 @@ Using only the first $N$ FPS-sampled points, the IFPS shell can be constructed t
 
 ### Advantages
 
-1. **Intrinsic Representation**: Bounding volume centers are FPS-sampled points, with radii computed from these samples.
+1. **Intrinsic Representation**: The centers of bounding volume are FPS-sampled points themselves, with radii computed from these samples.
 2. **Hierarchical Representation**: IFPS supports both implicit and explicit *q*-way trees without heuristic partitioning.
 3. **Universal Representation**: IPFS extends naturally to discrete data in any dimension, generalizing spheres to hyperspheres.
 
