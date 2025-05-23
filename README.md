@@ -32,9 +32,9 @@ Using only the first $N$ FPS-sampled points, the IFPS shell can be constructed t
 </p>
 
 ### Advantages
-* **Universal representation**. Centers of bounding volumes are the input points themselves. Radii of bounding volumes are derived from FPS. 
-* **Hierarchical representation**. . Both of implicit tree and explicit q-way tree can be constructed, without heuristic spatial partitioning.
-* **Arbitrary Dimension**. Beyond 2D/3D, IFPS can be seamlessly extended to discrete data in any dimension, with spheres naturally generalizing to hyperspheres.
+1. **Universal representation**. Centers of bounding volumes are the input points themselves. Radii of bounding volumes are derived from FPS. 
+2. **Hierarchical representation**. Both of implicit tree and explicit q-way tree can be constructed, without heuristic spatial partitioning.
+3. **Arbitrary Dimension**. Beyond 2D/3D, IFPS can be seamlessly extended to discrete data in any dimension, with spheres naturally generalizing to hyperspheres.
 
 ## Setup
 
