@@ -1,6 +1,6 @@
 # Inverse Farthest Point Sampling (IFPS) Shell
 
-This repository is the official implementation of our **ICMR 2025** paper:
+This repository is the official implementation of our paper, accepted by ACM International Conference on Multimedia Retrieval (**ICMR 2025**):
 
 **Inverse Farthest Point Sampling (IFPS): A Universal and Hierarchical Shell Representation for Discrete Data**
 
