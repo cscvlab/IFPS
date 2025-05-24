@@ -13,7 +13,7 @@ __Authors:__ Nayu Ding, Yujie Lu, Yao Huang, Long Wan, Yan Zhao, Zhijun Fang, Sh
 ### Core idea in one sentence
 Using only the first $N$ FPS-sampled points, the IFPS shell can be constructed to encapsulate all the original discrete points while employing hierarchical management.
 
-### Sketch
+### Graphical Abstract
 
 <p align="center">
  <img src="IFPS/assets/pipeline.jpg" width = "600" alt="ifps" align=center />
