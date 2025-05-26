@@ -6,7 +6,7 @@ This repository is the official implementation of our paper, accepted by ACM Int
 
 __Authors:__ Nayu Ding, Yujie Lu, Yao Huang, Long Wan, Yan Zhao, Zhijun Fang, Shen Cai*, Lin Gao*.
 
-**Links:** [[Video(Youtube)]](https://youtu.be/m9nmNF19FFw)
+**Links:** [[Project Page]](www.cscvlab.com) &nbsp; [[Video(bilibili)]](https://www.bilibili.com/video/BV1ayjSzWES4/) &nbsp; [[Video(YouTube)]](https://youtu.be/m9nmNF19FFw)
 
 ## Method
 
